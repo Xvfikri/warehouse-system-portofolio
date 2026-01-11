@@ -1,6 +1,18 @@
 # Warehouse Management System (WMS)
 
-A robust and efficient Warehouse Management System built with **Laravel 11**, designed to streamline inventory tracking, manage goods movement, and provide comprehensive reporting.
+## 📝 Project Description
+
+**Warehouse Management System (WMS)** adalah solusi perangkat lunak komprehensif yang dirancang untuk mengoptimalkan operasional pergudangan secara efisien dan transparan. Sistem ini memungkinkan perusahaan untuk mengelola siklus hidup barang mulai dari penerimaan (*Inbound*), penyimpanan stok berbasis nomor batch, hingga pengeluaran barang (*Outbound*) berdasarkan permintaan produksi atau penjualan.
+
+Sistem ini dikembangkan untuk meminimalkan kesalahan manusia dalam pencatatan stok, memberikan visibilitas *real-time* terhadap inventaris, dan mempermudah proses audit melalui fitur penyesuaian stok (*Stock Adjustment*) yang terintegrasi dengan alur persetujuan. Dengan dukungan laporan otomatis harian hingga tahunan, WMS ini menjadi alat bantu strategis bagi manajemen dalam pengambilan keputusan terkait ketersediaan barang dan perencanaan logistik.
+
+### Core Objectives:
+- **Akurasi Inventaris**: Pelacakan ketat menggunakan sistem nomor batch untuk memastikan rotasi stok yang tepat (FIFO/FEFO).
+- **Efisiensi Operasional**: Otomatisasi pencatatan transaksi masuk dan keluar untuk mempercepat alur kerja staf gudang.
+- **Transparansi Data**: Memberikan laporan inventaris dan aktivitas gudang yang akurat untuk pengawasan manajerial.
+- **Kontrol Ketat**: Sistem persetujuan berjenjang untuk setiap penyesuaian stok yang krusial.
+
+---
 
 ## 🚀 Key Features
 
